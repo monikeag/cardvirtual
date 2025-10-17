@@ -17,8 +17,8 @@
 - Postman (para testes)
 
 
+<h2> Estrutura do Projeto </h2>
 <ul> 
-src/
 <li>├── controller/ # Endpoints REST </li>
 <li>├── service/    # Lógica de negócio </li>
 <li>├── model/      # Entidade CardVirtual </li>
