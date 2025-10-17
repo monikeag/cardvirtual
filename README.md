@@ -17,12 +17,12 @@
 - Postman (para testes)
 
 
-
+<ul>
 src/
-├── controller/# Endpoints REST \n
-├── service/         # Lógica de negócio
-├── model/           # Entidade CardVirtual
-├── repository/      # Interface de acesso ao banco
-└── resources/
+<li>├── controller/ # Endpoints REST </li>
+<li>├── service/    # Lógica de negócio </li>
+<li>├── model/      # Entidade CardVirtual </li>
+<li>├── repository/ # Interface de acesso ao banco </li>
+<li>└── resources/ </li>
     └── application.properties
-  
+</ul>
