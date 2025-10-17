@@ -18,7 +18,7 @@
 
 
  <h2>Estrutura do Projeto</h2>
-
+<list>
 src/
 ├── controller/      # Endpoints REST
 ├── service/         # Lógica de negócio
@@ -26,3 +26,4 @@ src/
 ├── repository/      # Interface de acesso ao banco
 └── resources/
     └── application.properties
+    </list>
