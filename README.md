@@ -17,13 +17,12 @@
 - Postman (para testes)
 
 
- <h2>Estrutura do Projeto</h2>
-<list>
+
 src/
-├── controller/      # Endpoints REST
+├── controller/# Endpoints REST \n
 ├── service/         # Lógica de negócio
 ├── model/           # Entidade CardVirtual
 ├── repository/      # Interface de acesso ao banco
 └── resources/
     └── application.properties
-    </list>
+  
